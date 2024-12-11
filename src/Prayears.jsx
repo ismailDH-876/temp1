@@ -1,7 +1,7 @@
 export default function Prayears({timing , pray , image}) {
  
   return (
-
+// test
 
           <div className="card" >
             <img src={image} alt="" />
